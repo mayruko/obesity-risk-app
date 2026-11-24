@@ -1,0 +1,9 @@
+Obesity Risk Assessment is a small website that estimates a person's weight category from their
+lifestyle. You fill in a form with your age, height, weight, eating habits, exercise, water intake,
+screen time, alcohol and how you get around. You press a button and it replies with one of six 
+categories, from "Normal weight" to "Obesity (Type III)".
+
+IMPORTANT NOTE
+Behind the page is a program that learned from many example people with known categories. It spots
+patterns, such as weight relative to height and eating habits, and applies them to new answers. It 
+is an educational estimate, not a medical diagnosis.
